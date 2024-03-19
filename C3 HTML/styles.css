@@ -1,0 +1,19 @@
+body {
+  font-family: "Times New Roman", sans-serif;
+  color: #f8f5f5;
+  margin: 20px;
+  background-color: black;
+}
+h1 {
+  font-family: "Times New Roman", sans-serif;
+  color: #e41111;
+}
+ol {
+  color: aqua;
+}
+ul {
+  color: aquamarine;
+}
+h2 {
+  color: bisque;
+}
